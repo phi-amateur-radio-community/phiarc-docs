@@ -1,4 +1,4 @@
-# phiarc-docs
+# phiarc-docs/log
 **Document Log Specification**
 
 This repository is used for long-term document and log management.
