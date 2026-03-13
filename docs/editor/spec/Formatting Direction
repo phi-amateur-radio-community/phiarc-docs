@@ -1,0 +1,55 @@
+# Formatting Direction for Contributors
+
+Welcome to all editors and contributors! This document outlines the formatting standards for Essays and Lectures within this project.
+
+---
+
+## 1. General Illustration
+
+### 1.1 Language Usage
+* You may use any language from your country or region.
+* **Requirement:** If your language is not currently supported by our reviewers, please provide an **English version**.
+    * *Currently supported languages: Traditional Chinese (zh-Hant), Simplified Chinese (zh-Hans), and English (en-US).*
+
+### 1.2 Fonts
+* **Chinese Characters:** *DFKai-SB* or *FangSong*.
+* **Latin Alphabet:** *Times New Roman*.
+
+### 1.3 Editing Tools
+* **Recommended:** We strongly suggest using **LaTeX** or **Markdown**. These tools ensure formatting stability and visual clarity.
+* **Office Suites:** If using Microsoft Word or Open Office, you must submit both **.docx** and **.pdf** files to prevent layout errors.
+
+---
+
+## 2. Main Content
+
+### 2.1 Titles and Sub-titles
+* **Main Title (Level 1):** Use **16px Boldface** font.
+* **Secondary Titles (Level 2 and below):** Use **12px** original (standard) font.
+* **Hierarchy:** Please limit title depth to **4–5 levels** to maintain readability.
+
+### 2.2 Personal Information
+* **Identification:** You may use your GitHub ID or the legal name found on your passport.
+* **Naming Convention:** List your name in your **native language first**, followed by your English name.
+    * *Example: 王小明 (Xiao-Ming Wang)*
+* **Date Format:** Must strictly follow **ISO-8601** (YYYY-MM-DD). Do not use other chronologies.
+* **Instructors:** If you have an instructor, please credit them in this section.
+
+### 2.3 Structure
+
+- According to your essay, it should have a clear structure. It includes, but is not limited to:
+    - Cover (including title, Author, etc.)
+    - Abstract (approximately 200–500 words) and Keywords (3–6 words)
+    - Main text (Introduction, main sections, Results, etc.)
+    - Acknowledgments (optional)
+    - Sources
+    - Annex
+    - Declaration
+
+- This is an example for a cover:
+
+        Title (Your language): ______________________________
+        Title (English):     ______________________________
+        Primary Author:      ______________________________ (Your language / English)
+        Date (YYYY-MM-DD):   ______________________________
+        
